@@ -5,10 +5,12 @@ version = "0.1.0"
 date = "2026-05-23"
 
 [components]
-omara-core = "0.1.0"
-omara-de = { niri = "0.1.0" }
+omara-configs = "0.1.0"
+omara-cli = "0.1.0"
 omara-apps = "0.1.0"
-omara-art = "0.1.0"   # screensavers/art
+omara-art = "0.1.0"
+omara-os = "0.1.0"
+omara-rpms = "0.1.0"
 
 [notes]
 description = "Initial Big Bang refactor. Rust CLI foundation + Niri desktop definition."

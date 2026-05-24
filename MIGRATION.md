@@ -28,3 +28,10 @@ The original single-repo `os/` has been decomposed.
 - Hyprland desktop definition (removed in favor of Niri)
 
 The old short-named `os` repository (now deleted) was the legacy source of truth.
+
+## Subsequent Consolidation & CLI Extraction (2026-05-24)
+
+- **Merged Niri Configs**: `omara-de/niri/` was merged directly into `omara-configs` (previously named `omara-core`) under `configs/niri/`.
+- **Deprecated Repository**: The `omara-de` repository was deleted.
+- **CLI Extraction**: The `omara` CLI tool was extracted into its own dedicated repository, `omara-cli`.
+

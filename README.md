@@ -6,7 +6,7 @@ The source of truth for Omara releases and architecture.
 
 This repository defines what constitutes a complete, coherent release of Omara:
 
-- Version alignment between `omara-core`, `omara-de`, `omara-apps`, and `omara-art`
+- Version alignment between `omara-configs`, `omara-cli`, `omara-apps`, `omara-art`, `omara-os`, and `omara-rpms`
 - Release manifests and compatibility matrices
 - High-level build and ISO orchestration (future)
 - Upgrade paths and release notes

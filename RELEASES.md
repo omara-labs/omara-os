@@ -6,9 +6,11 @@ Example:
 
 ## 2026.06 "First Light"
 
-- omara-core: v0.1
-- omara-de-niri: v0.1
-- omara-apps: 2026.06
-- omara-art: v0.2
+- omara-configs: v0.1
+- omara-cli: v0.1
+- omara-apps: v0.1
+- omara-art: v0.1
+- omara-os: v0.1
+- omara-rpms: v0.1
 
 This is the single source of truth for reproducible Omara images.
