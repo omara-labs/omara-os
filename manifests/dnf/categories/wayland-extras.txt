@@ -1,0 +1,8 @@
+# Wayland Desktop Essentials
+niri
+quickshell
+swaync
+walker
+brightnessctl
+wpctl
+pamixer

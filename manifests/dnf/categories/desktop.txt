@@ -1,0 +1,6 @@
+# Desktop & Productivity
+firefox
+nautilus
+gnome-calculator
+gnome-text-editor
+evince

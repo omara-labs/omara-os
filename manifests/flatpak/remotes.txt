@@ -1,0 +1,3 @@
+# Flatpak Remotes
+# Format: <name>:<url>
+flathub:https://dl.flathub.org/repo/flathub.flatpakrepo

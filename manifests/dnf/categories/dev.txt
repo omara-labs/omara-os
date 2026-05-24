@@ -1,0 +1,15 @@
+# Development
+kitty
+fish
+jetbrains-mono-fonts
+git
+gh
+neovim
+ripgrep
+fd-find
+fzf
+bat
+delta
+lazygit
+nodejs
+python3

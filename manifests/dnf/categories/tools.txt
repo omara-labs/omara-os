@@ -1,0 +1,7 @@
+# System Tools
+htop
+btop
+fastfetch
+wl-clipboard
+brightnessctl
+wpctl

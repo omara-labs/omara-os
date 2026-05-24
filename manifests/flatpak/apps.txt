@@ -1,0 +1,6 @@
+# Flatpak Applications to install by default
+# Format: <app-id>
+
+# Examples:
+# org.mozilla.firefox
+# org.telegram.desktop

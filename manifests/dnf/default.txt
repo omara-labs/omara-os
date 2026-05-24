@@ -1,0 +1,9 @@
+# Omara Default Apps
+# Everything here ships on every install unless explicitly removed.
+
+@include categories/desktop.txt
+@include categories/dev.txt
+@include categories/tools.txt
+
+@include categories/wayland-extras.txt
+@include categories/media.txt

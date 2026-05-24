@@ -1,0 +1,17 @@
+# DNF Repositories for Omara OS
+# Format: <type>:<identifier_or_url>
+
+# RPM Fusion
+rpm:https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-40.noarch.rpm
+rpm:https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-40.noarch.rpm
+
+# COPR Repositories
+copr:errornointernet/walker
+copr:yalter/niri
+copr:errornointernet/quickshell
+copr:lihaohong/yazi
+
+# YUM Configuration Repositories
+repo-file:https://pkgs.tailscale.com/stable/fedora/tailscale.repo
+repo-file:https://dl.google.com/linux/chrome/rpm/stable/x86_64/google-chrome.repo
+repo-file:https://packages.microsoft.com/yumrepos/edge/config.repo
