@@ -39,8 +39,8 @@ if [ "$OMARA_SESSION" = "wayland" ]; then
 fi
 
 
-# Run all scripts in the scripts directory in numerical order
-for script in "$SCRIPT_DIR"/scripts/[0-9]*.sh; do
+# Run all scripts in the legacy directory in numerical order
+for script in "$SCRIPT_DIR"/[0-9]*.sh; do
     if [ -x "$script" ]; then
         echo ""
         echo "=========================================================="
