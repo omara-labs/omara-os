@@ -7,7 +7,6 @@ date = "2026-05-23"
 [components]
 omara-configs = "0.1.0"
 omara-cli = "0.1.0"
-omara-apps = "0.1.0"
 omara-art = "0.1.0"
 omara-os = "0.1.0"
 omara-rpms = "0.1.0"

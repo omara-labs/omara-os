@@ -8,7 +8,6 @@ Example:
 
 - omara-configs: v0.1
 - omara-cli: v0.1
-- omara-apps: v0.1
 - omara-art: v0.1
 - omara-os: v0.1
 - omara-rpms: v0.1
