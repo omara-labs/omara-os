@@ -1,6 +1,32 @@
 # Flatpak Applications to install by default
-# Format: <app-id>
 
-# Examples:
-# org.mozilla.firefox
-# org.telegram.desktop
+# Communication
+org.equicord.equibop
+
+# Cloud
+com.synology.SynologyDrive
+
+# Media
+io.mpv.Mpv
+
+# Music
+com.spotify.Client
+
+# Media Server
+org.jellyfin.JellyfinDesktop
+
+# Radio
+de.haeckerfelix.Shortwave
+
+# Store
+com.valvesoftware.Steam
+
+# Office
+org.libreoffice.LibreOffice
+
+# PDF
+org.kde.okular
+
+# Games
+org.gnome.Chess
+org.gnome.Sudoku

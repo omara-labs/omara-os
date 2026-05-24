@@ -15,3 +15,6 @@ copr:lihaohong/yazi
 repo-file:https://pkgs.tailscale.com/stable/fedora/tailscale.repo
 repo-file:https://dl.google.com/linux/chrome/rpm/stable/x86_64/google-chrome.repo
 repo-file:https://packages.microsoft.com/yumrepos/edge/config.repo
+
+# Brave Browser
+rpm:https://brave-browser-rpm-release.s3.brave.com/brave-browser-release-2.noarch.rpm

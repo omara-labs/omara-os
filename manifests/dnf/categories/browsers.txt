@@ -1,0 +1,5 @@
+# Browsers
+google-chrome-stable
+microsoft-edge
+brave-browser
+firefox

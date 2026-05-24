@@ -4,6 +4,9 @@
 @include categories/desktop.txt
 @include categories/dev.txt
 @include categories/tools.txt
+@include categories/browsers.txt
+@include categories/cloud.txt
+@include categories/utilities.txt
 
 @include categories/wayland-extras.txt
 @include categories/media.txt
