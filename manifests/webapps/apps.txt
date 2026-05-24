@@ -1,0 +1,26 @@
+# Web Applications
+# Desktop files in omara-configs/configs/apps/webapps/
+
+# Microsoft
+microsoft-word
+microsoft-excel
+microsoft-powerpoint
+microsoft-onedrive
+microsoft-outlook
+
+# Google
+google-docs
+google-sheets
+google-slides
+google-drive
+google-gmail
+youtube
+youtube-music
+
+# AI Chat
+ai-gemini
+ai-grok
+ai-mistral
+ai-chatgpt
+ai-claude
+ai-perplexity
