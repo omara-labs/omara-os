@@ -1,7 +1,7 @@
 # Flatpak Applications to install by default
 
 # Communication
-org.equicord.equibop
+org.equcord.equibop
 
 # Cloud
 com.synology.SynologyDrive
@@ -20,6 +20,11 @@ de.haeckerfelix.Shortwave
 
 # Store
 com.valvesoftware.Steam
+io.github.kolunmi.Bazaar
+
+# Flatpak Managers
+com.github.tchx84.Flatseal
+io.github.flattool.Warehouse
 
 # Office
 org.libreoffice.LibreOffice
@@ -30,3 +35,17 @@ org.kde.okular
 # Games
 org.gnome.Chess
 org.gnome.Sudoku
+
+# Emulators
+org.DolphinEmu.dolphin-emu
+io.github.ryubing.Ryujinx
+net.kuribo64.melonDS
+org.luanti.luanti
+app.xmcl.voxelum
+
+# Utilities
+org.gnome.Boxes
+be.alexandervanhee.gradia
+org.gnome.Weather
+org.vinegarhq.Sober
+net.nokyan.Resources
