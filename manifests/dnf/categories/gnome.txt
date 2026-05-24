@@ -1,0 +1,6 @@
+# GNOME Desktop & Shell Extensions
+gnome-shell
+gnome-tweaks
+gnome-extensions-app
+chrome-gnome-shell
+dconf
