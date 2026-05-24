@@ -1,5 +1,7 @@
 # Migration from old omara-labs/os repo (Big Bang)
 
+> **Note**: The old short-named `os` repository has been deleted. This document is kept for historical reference.
+
 The original single-repo `os/` has been decomposed.
 
 ## What was migrated (finished 2026-05-23)
@@ -27,4 +29,4 @@ The original single-repo `os/` has been decomposed.
 - All GNOME-specific scripts (04-gnome.sh, 05-shortcuts.sh)
 - pop-shell, quickshell, and other non-core pieces
 
-The old `os/` repo is now considered the legacy source of truth only for historical reference.
+The old short-named `os` repository (now deleted) was the legacy source of truth.
