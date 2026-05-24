@@ -15,18 +15,16 @@ The original single-repo `os/` has been decomposed.
 - scripts/hardware-setup.sh (adapted)
 - scripts/omara-screensaver
 
-### Into omara-de/hyprland/
-- Full new desktop definition (Waybar, SwayNC, dock, window rules, scripts)
-- legacy-hyprland.conf (your old full config for reference)
-
 ### Into omara-de/niri/
-- legacy-config.kdl
+- Full desktop definition (Quickshell, SwayNC, window rules, scripts)
+- config.kdl (main Niri configuration)
 
 ### Into omara-os/
 - scripts/legacy/ (00-repos.sh, 01-install.sh, 02-services.sh, 03-user-services.sh, 06-app-configs.sh, setup.sh)
 
 ### Deprecated / left behind
 - All GNOME-specific scripts (04-gnome.sh, 05-shortcuts.sh)
-- pop-shell, quickshell, and other non-core pieces
+- pop-shell and other non-core pieces
+- Hyprland desktop definition (removed in favor of Niri)
 
 The old short-named `os` repository (now deleted) was the legacy source of truth.

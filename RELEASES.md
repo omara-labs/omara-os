@@ -7,7 +7,7 @@ Example:
 ## 2026.06 "First Light"
 
 - omara-core: v0.1
-- omara-de-hyprland: v0.1
+- omara-de-niri: v0.1
 - omara-apps: 2026.06
 - omara-art: v0.2
 
