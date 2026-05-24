@@ -1,0 +1,14 @@
+# Omara Release v0.1.0
+# This is the source of truth for what ships together.
+
+version = "0.1.0"
+date = "2026-05-23"
+
+[components]
+omara-core = "0.1.0"
+omara-de = { hyprland = "0.1.0" }
+omara-apps = "0.1.0"
+omara-art = "0.1.0"   # future screensavers/art
+
+[notes]
+description = "Initial Big Bang refactor. Rust CLI foundation + full Hyprland desktop definition."

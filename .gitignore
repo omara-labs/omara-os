@@ -1,0 +1,17 @@
+# Build artifacts
+target/
+build/
+dist/
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
